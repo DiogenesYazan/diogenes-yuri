@@ -1,0 +1,56 @@
+p {
+    font-family: Lato, 'Helvetica Neue', Helvetica, Arial, sans-serif;
+}
+
+.foto-perfil {
+    height: 100%;
+    max-width: auto;
+    border-radius: 50%;
+}
+
+.icones {
+    padding-left: 5px;
+}
+
+.titulosBrancos {
+    text-decoration: underline;
+    text-underline-position: under;
+    padding-bottom: 20px;
+    text-transform: uppercase;
+    font-weight: 700;
+    color: white;
+}
+
+.titulosRoxos {
+    text-decoration: underline;
+    text-underline-position: under;
+    padding-bottom: 20px;
+    text-transform: uppercase;
+    font-weight: 700;
+    color: #9400f7
+}
+
+.paragrafoBrancos {
+    color: rgb(255, 255, 255) !important;
+}
+
+
+.jumbotron {
+    margin-bottom: 0px;
+}
+
+html {
+    scroll-behavior: smooth;
+}
+
+p {
+    color: black !important;
+}
+
+.corPrimaria {
+    background-color: #8c00ff6c;
+}
+
+.itemMenu {
+    color: white;
+}
